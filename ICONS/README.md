@@ -20,3 +20,7 @@
 
 *Homelander #2*
 
+## pfp.png
+![Logo](https://www.canva.com/design/DAGet6k-igs/f-0ZgqIHoS_JZpUUga6XJw/view?utm_content=DAGet6k-igs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h56e4f5621f)
+*Foto de Perfil*
+
